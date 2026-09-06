@@ -1,0 +1,22 @@
+{
+  "synthetic": true,
+  "voice": "macOS Daniel; stop clip: Samantha",
+  "phrases": {
+    "start": "Start session.",
+    "finish": "Finish trial.",
+    "square": "Square.",
+    "circle": "Circle.",
+    "triangle": "Triangle.",
+    "yes": "Yes.",
+    "change": "Change.",
+    "next": "Next trial.",
+    "complete": "Finish session.",
+    "repeat": "Repeat.",
+    "end": "End session.",
+    "no": "No.",
+    "explore": "I notice something round. Perhaps a curve on the left.",
+    "not-confirm": "That is not correct.",
+    "spelled-square": "S. Q. U. A. R. E.",
+    "stop": "Stop session."
+  }
+}
